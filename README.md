@@ -25,7 +25,8 @@ Analyze and give some insights in order to develop business more
 Microsoft Power BI
 ![1](https://github.com/MeghanaSasanala/powerBI_projects/assets/97938646/d908c0bb-0f41-4ac9-aa7f-bed020b4a742)
 
-![2](https://github.com/MeghanaSasanala/powerBI_projects/assets/97938646/0b696140-97ff-4aa6-8aae-d565539c51b0)
+![Capture](https://github.com/MeghanaSasanala/powerBI_projects/assets/97938646/751ef994-9f73-48e1-92e6-c5cd44ee137a)
+
 
 -- Analysis and Findings:
 The analysis utilized Power BI visualizations to uncover key insights, including:
